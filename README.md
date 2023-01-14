@@ -7,3 +7,4 @@
 - Hibernate
 - MySQL
 - Lombok
+- Logback
